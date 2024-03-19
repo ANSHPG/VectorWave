@@ -1,5 +1,7 @@
 # VectorWave
 
+![download (1)](https://github.com/ANSHPG/VectorWave/assets/132222062/1aee0382-0ce2-487f-97b5-e8ae52cdd4ce)
+
 ## Overview
 This repository contains a Jupyter Notebook (`ipynb` file) that implements a predictive model to determine whether a placement will occur based on 100 input features of CGPA (Cumulative Grade Point Average) and IQ scores. The model is developed using Python and various libraries including NumPy, Pandas, Matplotlib, Scikit-learn, MLxtend, and Pickle. Logistic Regression classification algorithm is employed for building the predictive model.
 
